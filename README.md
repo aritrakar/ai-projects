@@ -4,9 +4,10 @@ A centralized collection of links to my A.I. projects roughly divided by topic.
 
 ## Text/NLP
 
-1. Sarcasm detection from news headlines: [Link](https://github.com/aritrakar/nlp-experiments)
-2. (Incoherent) Song generation: [Link](https://github.com/aritrakar/nlp-experiments)
-3. N.A.R.V.I.S (Not A Rather Very Intelligent System): [Link](https://github.com/aritrakar/Python-Projects/tree/master/Chatbot/Speech%20To%20Text)
+1. PDF-GPT: [Link](https://github.com/aritrakar/pdf-gpt)
+2. Sarcasm detection from news headlines: [Link](https://github.com/aritrakar/nlp-experiments)
+3. (Incoherent) Song generation: [Link](https://github.com/aritrakar/nlp-experiments)
+4. N.A.R.V.I.S (Not A Rather Very Intelligent System): [Link](https://github.com/aritrakar/Python-Projects/tree/master/Chatbot/Speech%20To%20Text)
 
 ## Image processing
 
