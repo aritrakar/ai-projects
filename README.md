@@ -5,7 +5,7 @@ A centralized collection of links to my A.I. projects roughly divided by topic.
 ## Reinforcement Learning
 
 1. DOOM Agent: [Link](https://github.com/aritrakar/doom)
-2. StarCraft II Agent: Using sc2.
+2. StarCraft II Agent: [Link](https://github.com/aritrakar/starcraft2)
 3. Lunar Lander: [Link](https://github.com/aritrakar/rl-exp/blob/main/lunar_lander.py)
 4. Snake game: [Link](https://github.com/aritrakar/rl-exp/tree/main/Snake)
 
