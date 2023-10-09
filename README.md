@@ -22,7 +22,8 @@ A centralized collection of links to my A.I. projects roughly divided by topic.
 2. Traffic Sign Detection: [Link](https://github.com/aritrakar/TrafficSignDetection)
 3. Random Image Generator (GPT-3.5 connected to DALL-E 2): [Link](https://github.com/aritrakar/randomImageGen1)
 
-## Other ML
+## Other
 
 1. Crew size prediction: [Link](https://github.com/aritrakar/Data-Science-Projects/tree/master/Crew_Size)
 2. Loan grant prediction: [Link](https://github.com/aritrakar/Data-Science-Projects/tree/master/Loan_Prediction)
+3. Sudoku Solver: [Link](https://github.com/aritrakar/Python-Projects/tree/master/Sudoku)
