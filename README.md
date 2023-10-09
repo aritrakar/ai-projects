@@ -27,3 +27,4 @@ A centralized collection of links to my A.I. projects roughly divided by topic.
 1. Crew size prediction: [Link](https://github.com/aritrakar/Data-Science-Projects/tree/master/Crew_Size)
 2. Loan grant prediction: [Link](https://github.com/aritrakar/Data-Science-Projects/tree/master/Loan_Prediction)
 3. Sudoku Solver: [Link](https://github.com/aritrakar/Python-Projects/tree/master/Sudoku)
+4. Bayesian Network: Please ask me.
