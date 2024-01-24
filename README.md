@@ -19,7 +19,7 @@ A centralized collection of links to my A.I. projects roughly divided by topic.
 ## Images & Videos
 
 1. (TODO) Simple Diffusion dodels
-2. Lane Detection: Simple (white) lane detection using Canny Hough transform.
+2. Lane Detection: Simple (white) lane detection using Canny Hough transform. [Link](https://colab.research.google.com/drive/12gaDO2JxAtwXTWs23SJBBd6ckqii2yAo?usp=sharing)
 3. Traffic Sign Detection: [Link](https://github.com/aritrakar/TrafficSignDetection)
 4. Random Image Generator (GPT-3.5 connected to DALL-E 2): [Link](https://github.com/aritrakar/randomImageGen1)
 
