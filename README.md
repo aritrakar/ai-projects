@@ -16,11 +16,12 @@ A centralized collection of links to my A.I. projects roughly divided by topic.
 3. (Incoherent) Song generation: [Link](https://github.com/aritrakar/nlp-experiments)
 4. N.A.R.V.I.S (Not A Rather Very Intelligent System): [Link](https://github.com/aritrakar/Python-Projects/tree/master/Chatbot/Speech%20To%20Text)
 
-## Images
+## Images & Videos
 
 1. (TODO) Simple Diffusion dodels
-2. Traffic Sign Detection: [Link](https://github.com/aritrakar/TrafficSignDetection)
-3. Random Image Generator (GPT-3.5 connected to DALL-E 2): [Link](https://github.com/aritrakar/randomImageGen1)
+2. Lane Detection: Simple (white) lane detection using Canny Hough transform.
+3. Traffic Sign Detection: [Link](https://github.com/aritrakar/TrafficSignDetection)
+4. Random Image Generator (GPT-3.5 connected to DALL-E 2): [Link](https://github.com/aritrakar/randomImageGen1)
 
 ## Other
 
