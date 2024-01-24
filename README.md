@@ -30,3 +30,4 @@ A centralized collection of links to my A.I. projects roughly divided by topic.
 3. Sudoku Solver: [Link](https://github.com/aritrakar/Python-Projects/tree/master/Sudoku)
 4. Bayesian Network: Please ask me.
 5. Decision Trees: Please ask me.
+6. Genetic algorithm neural networks simulation using C++: [Link](https://github.com/aritrakar/genetic-driving)
