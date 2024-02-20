@@ -1,4 +1,4 @@
-# ai-projects
+# AI Projects portfolio
 
 A centralized collection of links to my A.I. projects roughly divided by topic.
 
@@ -20,7 +20,7 @@ A centralized collection of links to my A.I. projects roughly divided by topic.
 
 ## Images & Videos
 
-1. (TODO) Simple Diffusion dodels
+1. (TODO) Simple Diffusion models
 1. Lane Detection: Simple (white) lane detection using Canny Hough transform. [Link](https://colab.research.google.com/drive/12gaDO2JxAtwXTWs23SJBBd6ckqii2yAo?usp=sharing)
 1. Traffic Sign Detection: [Link](https://github.com/aritrakar/TrafficSignDetection)
 1. Random Image Generator (GPT-3.5 connected to DALL-E 2): [Link](https://github.com/aritrakar/randomImageGen1)
