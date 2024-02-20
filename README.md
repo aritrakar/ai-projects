@@ -20,6 +20,7 @@ A centralized collection of links to my A.I. projects roughly divided by topic.
 
 ## Images & Videos
 
+1. (WIP) CNN implementation for CIFAR-10 image classification task: Please ask me.
 1. (TODO) Simple Diffusion models
 1. Lane Detection: Simple (white) lane detection using Canny Hough transform. [Link](https://colab.research.google.com/drive/12gaDO2JxAtwXTWs23SJBBd6ckqii2yAo?usp=sharing)
 1. Traffic Sign Detection: [Link](https://github.com/aritrakar/TrafficSignDetection)
