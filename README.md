@@ -12,6 +12,8 @@ A centralized collection of links to my A.I. projects roughly divided by topic.
 
 ## Text/NLP
 
+1. News summarizer: [Link](https://github.com/aritrakar/news-summarizer)
+1. Transformer from scratch: [Link](https://github.com/aritrakar/ml-from-scratch/blob/main/transformers_from_scratch.ipynb)
 1. Glassdoor job-rating prediction by sentiment analysis of company reviews: Please ask me.
 1. PDF-GPT: [Link](https://github.com/aritrakar/pdf-gpt)
 1. Sarcasm detection from news headlines: [Link](https://github.com/aritrakar/nlp-experiments)
@@ -20,14 +22,16 @@ A centralized collection of links to my A.I. projects roughly divided by topic.
 
 ## Images & Videos
 
-1. (WIP) CNN implementation for CIFAR-10 image classification task: Please ask me.
-1. (TODO) Simple Diffusion models
+1. CNN implementation for CIFAR-10 image classification: [Link](https://github.com/aritrakar/ml-from-scratch/blob/main/cnn_from_scratch.ipynb)
+1. Denoising Diffusion Probabilistic Models: [Link](https://github.com/aritrakar/ml-from-scratch/blob/main/ddpm_from_scratch.ipynb)
+1. Generative Adversarial Networks (GANs): [Link](https://github.com/aritrakar/ml-from-scratch/blob/main/ddpm_from_scratch.ipynb)
 1. Lane Detection: Simple (white) lane detection using Canny Hough transform. [Link](https://colab.research.google.com/drive/12gaDO2JxAtwXTWs23SJBBd6ckqii2yAo?usp=sharing)
 1. Traffic Sign Detection: [Link](https://github.com/aritrakar/TrafficSignDetection)
 1. Random Image Generator (GPT-3.5 connected to DALL-E 2): [Link](https://github.com/aritrakar/randomImageGen1)
 
 ## Other
 
+1. Adversarial training of ResNet18 image classifier: [Link](https://github.com/aritrakar/ml-from-scratch/blob/main/adversarial_training_from_scratch.ipynb)
 1. Learning to drive via behavioural cloning: [Link](https://github.com/aritrakar/behavioral-cloning-car)
 1. Genetic algorithm neural networks simulation using C++: [Link](https://github.com/aritrakar/genetic-driving)
 1. Sudoku Solver (CSP): [C++](https://github.com/aritrakar/sudoku-csp) [Python](https://github.com/aritrakar/Python-Projects/tree/main/Sudoku)
